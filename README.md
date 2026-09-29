@@ -111,12 +111,7 @@ HR-Attrition-Workforce-Analysis/
 
 ## 🖼️ Dashboard Preview
 
-> *(Add Tableau dashboard screenshot here)*
-
-```
-📁 Add your Tableau dashboard screenshot to make this section live
-```
-
+>![Dashboard Overview](screenshots/dashboard_overview.png)   
 ---
 
 ## 🚀 Getting Started
