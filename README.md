@@ -44,7 +44,14 @@ productivity. This project dives deep into HR data to:
 HR-Attrition-Workforce-Analysis/
 │
 ├── data/
-│   └── Hr_Attrition_clean_dataset.xlsx    # Cleaned HR dataset
+│   └── Hr_Attrition_clean_dataset.xlsx
+│
+├── screenshots/
+│   └── dashboard_overview.png
+│   └── excel_pivot_report.png
+│
+├── dashboard/
+│   └── HR_Attrition_Dashboard.twbx
 │
 └── README.md
 ```
