@@ -1,4 +1,4 @@
-# HR Attrition & Workforce Analysis 📊
+# HR Attrition & Workforce Analysis 📊   
 
 An end-to-end HR analytics project analyzing employee attrition and workforce
 trends using **Microsoft Excel** and **Tableau**. This project uncovers key
