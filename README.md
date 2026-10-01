@@ -124,7 +124,7 @@ git clone https://github.com/subhankar-das18/HR-Attrition-Workforce-Analysis.git
    - Open with **Microsoft Excel 2016** or later
 
 3. **Explore the Tableau Dashboard**
-   - Open the `.twbx` file in **Tableau Desktop** or **Tableau Public**
+   - Open the `.twb` file in **Tableau Desktop** or **Tableau Public**
    - Use filters to explore department, age, gender, and role-wise insights
 
 ---
