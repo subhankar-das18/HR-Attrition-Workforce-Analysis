@@ -112,7 +112,7 @@ HR-Attrition-Workforce-Analysis/
 >![Dashboard Overview](screenshots/dashboard_overview.png)   
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started   
 
 1. **Clone the repository**
 ```bash
