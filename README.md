@@ -83,7 +83,7 @@ HR-Attrition-Workforce-Analysis/
 - Pivot tables for department-wise and role-wise attrition
 - Salary slab segmentation and attrition mapping
 - Bar, pie, and line charts for trend reporting
-- Conditional formatting to highlight high-risk groups
+- Conditional formatting to highlight high-risk groups  
 
 ### 🔹 Tableau Dashboard
 - KPI cards: Total Employees | Attrition Count | Attrition Rate
