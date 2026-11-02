@@ -59,7 +59,7 @@ HR-Attrition-Workforce-Analysis/
 ## 📋 Dataset Overview      
 
 - **File:**   `Hr_Attrition_clean_dataset.xlsx`
-- **Records:** ~1,470 employee records
+- **Records:** ~1,470 employee records   
 - **Key Features:**
 
 | Feature                | Description                            |
