@@ -7,7 +7,7 @@ interactive dashboards and structured reporting.
    
 ---  
 
-## 📌 Project Overview 
+## 📌 Project Overview   
 
 Employee attrition is a major challenge for organizations. High turnover leads
 to increased hiring costs, loss of institutional knowledge, and reduced team
