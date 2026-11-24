@@ -38,7 +38,7 @@ productivity. This project dives deep into HR data to:
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Structure 
    
 ```
 HR-Attrition-Workforce-Analysis/
